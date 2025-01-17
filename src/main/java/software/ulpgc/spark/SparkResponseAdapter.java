@@ -1,6 +1,6 @@
 package software.ulpgc.spark;
 
-import software.ulpgc.control.Output;
+import software.ulpgc.io.Output;
 import spark.Response;
 
 public class SparkResponseAdapter implements Output {

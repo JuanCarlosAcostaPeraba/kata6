@@ -1,5 +1,7 @@
 package software.ulpgc.control;
 
+import software.ulpgc.io.Input;
+import software.ulpgc.io.Output;
 import software.ulpgc.model.Calendar;
 
 import java.time.DayOfWeek;

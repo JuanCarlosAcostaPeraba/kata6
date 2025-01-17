@@ -1,6 +1,6 @@
 package software.ulpgc.spark;
 
-import software.ulpgc.control.Input;
+import software.ulpgc.io.Input;
 import spark.Request;
 
 public class SparkRequestAdapter implements Input {
